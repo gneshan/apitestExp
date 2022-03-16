@@ -6,7 +6,7 @@
       <class name="apitestResReq.GetSpecificUser"/>
       <class name="apitestResReq.GetNonExistingUser"/>
       <class name="apitestResReq.GetUsers"/>
-     <!--  <class name="apitestResReq.PostRegister"/> -->
+   	 <class name="apitestResReq.PostRegister"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
