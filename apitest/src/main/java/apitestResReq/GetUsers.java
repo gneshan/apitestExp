@@ -1,5 +1,6 @@
 package apitestResReq;
 
+import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 
 import org.testng.annotations.BeforeTest;
@@ -13,19 +14,12 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 
-public class GetUsers {
+public class GetUsers extends BaseClass {
 	
-	@BeforeTest
-	public void setup() {
-		
-		RestAssured.baseURI="https://reqres.in/api";
-		RestAssured.basePath="/users";
-		
-	}
-	
+
 	@Test(priority=1)
 	public void getUsers() {
-		Response responseBody = given()
+		Response responseBody = given().basePath("/users")
 				.when()//.queryParam("page", "2")
 				.get()
 				.then()//.assertThat().statusCode(200);
