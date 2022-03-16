@@ -1,0 +1,38 @@
+2022-03-15 18:16:00,434 - Test -INFO - *****This is the test for getting specific user*****
+2022-03-15 18:16:02,244 - Test -INFO - The Status Code is 200
+2022-03-15 18:16:02,245 - Test -INFO - *****Getting specific user test case ended*****
+2022-03-15 18:16:02,253 - Test -INFO - *****This is the test for NonExisting user*****
+2022-03-15 18:16:02,809 - Test -INFO - The Status Code is 404
+2022-03-15 18:16:02,809 - Test -INFO - *****The test case for nonExisting user ended*****
+2022-03-15 18:16:02,811 - Test -INFO - *****This is the test for getting all users*****
+2022-03-15 18:16:03,057 - Test -INFO - The Status Code is 200
+2022-03-15 18:16:03,062 - Test -INFO - *****Getting all users test case ended*****
+2022-03-15 18:16:04,660 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:16:05,265 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:16:05,266 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:16:05,754 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:16:05,755 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:16:06,252 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:16:06,254 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:16:06,765 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:16:06,765 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:16:07,475 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:20:01,925 - Test -INFO - *****This is the test for getting specific user*****
+2022-03-15 18:20:03,625 - Test -INFO - The Status Code is 200
+2022-03-15 18:20:03,626 - Test -INFO - *****Getting specific user test case ended*****
+2022-03-15 18:20:03,631 - Test -INFO - *****This is the test for NonExisting user*****
+2022-03-15 18:20:04,217 - Test -INFO - The Status Code is 404
+2022-03-15 18:20:04,217 - Test -INFO - *****The test case for nonExisting user ended*****
+2022-03-15 18:20:04,219 - Test -INFO - *****This is the test for getting all users*****
+2022-03-15 18:20:04,472 - Test -INFO - The Status Code is 200
+2022-03-15 18:20:04,475 - Test -INFO - *****Getting all users test case ended*****
+2022-03-15 18:20:06,004 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:20:06,584 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:20:06,585 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:20:07,223 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:20:07,224 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:20:07,765 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:20:07,766 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:20:08,495 - Test -INFO - *****Posting users test case ended*****
+2022-03-15 18:20:08,496 - Test -INFO - *****This is the test for Posting the users*****
+2022-03-15 18:20:09,026 - Test -INFO - *****Posting users test case ended*****

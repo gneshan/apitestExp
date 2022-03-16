@@ -1,21 +1,14 @@
 package apitestResReq;
 
-import org.testng.annotations.Test;
-import org.testng.AssertJUnit;
 import static io.restassured.RestAssured.given;
 
 import java.io.IOException;
-import java.util.HashMap;
 
 import org.json.simple.JSONObject;
-import org.testng.Assert;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import io.restassured.response.ValidatableResponse;
 
 public class PostRegister extends BaseClass{
 
@@ -65,8 +58,10 @@ public class PostRegister extends BaseClass{
 //		return progdata;
 //	}
 
+	@SuppressWarnings("unchecked")
 	@Test(dataProvider = "datafromexcel")
 	public void getUsers(String Email, String Password) {
+		logger.info("*****This is the test for Posting the users*****");
 
 		if(!Email.equals(null) && !Password.equals(null)) {
 			request.put("email", Email);
@@ -93,7 +88,9 @@ public class PostRegister extends BaseClass{
 				.post()
 				.then()//.assertThat().statusCode(StatusCode)
 				.log().all().extract().response();
-
+		
+	
+		logger.info("*****Posting users test case ended*****");
 //		int status=response.getStatusCode();
 //		Assert.assertEquals(status, StatusCode);
 //
@@ -113,6 +110,6 @@ public class PostRegister extends BaseClass{
 //
 //			Assert.assertEquals(prettyString.contains(token), true);
 //		}
-	}	
+	}		
 
 }

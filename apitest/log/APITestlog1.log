@@ -1,0 +1,38 @@
+2022-03-15 18:16:00,434 [main] INFO Test - *****This is the test for getting specific user*****
+2022-03-15 18:16:02,244 [main] INFO Test - The Status Code is 200
+2022-03-15 18:16:02,245 [main] INFO Test - *****Getting specific user test case ended*****
+2022-03-15 18:16:02,253 [main] INFO Test - *****This is the test for NonExisting user*****
+2022-03-15 18:16:02,809 [main] INFO Test - The Status Code is 404
+2022-03-15 18:16:02,809 [main] INFO Test - *****The test case for nonExisting user ended*****
+2022-03-15 18:16:02,811 [main] INFO Test - *****This is the test for getting all users*****
+2022-03-15 18:16:03,057 [main] INFO Test - The Status Code is 200
+2022-03-15 18:16:03,062 [main] INFO Test - *****Getting all users test case ended*****
+2022-03-15 18:16:04,660 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:16:05,265 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:16:05,266 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:16:05,754 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:16:05,755 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:16:06,252 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:16:06,254 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:16:06,765 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:16:06,765 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:16:07,475 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:20:01,925 [main] INFO Test - *****This is the test for getting specific user*****
+2022-03-15 18:20:03,625 [main] INFO Test - The Status Code is 200
+2022-03-15 18:20:03,626 [main] INFO Test - *****Getting specific user test case ended*****
+2022-03-15 18:20:03,631 [main] INFO Test - *****This is the test for NonExisting user*****
+2022-03-15 18:20:04,217 [main] INFO Test - The Status Code is 404
+2022-03-15 18:20:04,217 [main] INFO Test - *****The test case for nonExisting user ended*****
+2022-03-15 18:20:04,219 [main] INFO Test - *****This is the test for getting all users*****
+2022-03-15 18:20:04,472 [main] INFO Test - The Status Code is 200
+2022-03-15 18:20:04,475 [main] INFO Test - *****Getting all users test case ended*****
+2022-03-15 18:20:06,004 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:20:06,584 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:20:06,585 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:20:07,223 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:20:07,224 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:20:07,765 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:20:07,766 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:20:08,495 [main] INFO Test - *****Posting users test case ended*****
+2022-03-15 18:20:08,496 [main] INFO Test - *****This is the test for Posting the users*****
+2022-03-15 18:20:09,026 [main] INFO Test - *****Posting users test case ended*****
